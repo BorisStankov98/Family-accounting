@@ -12,7 +12,6 @@ let totalTextE = document.getElementById("totalE");
 let totalTextB = document.getElementById("totalB");
 let totalB = 0;
 let totalE = 0;
-let liId1 = 0;
 
 
 cont1.addEventListener("submit", (sub) =>{
